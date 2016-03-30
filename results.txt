@@ -1,0 +1,5 @@
+benchmark		iterations		time/iteration		delta	delta%
+-------------	----------		--------------		-----	------
+BenchmarkV1	   	   50000	    380653 ns/op
+BenchmarkV2		  100000	    355788 ns/op		-24865	-6.5%
+BenchmarkV3		  100000	    357934 ns/op		-22719	-5.9%
